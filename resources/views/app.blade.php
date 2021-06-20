@@ -7,9 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <div id="root">
-        {!! ssr('js/server.js')->render() !!}
+    <div id="example">
     </div>
-    <script src="{{ mix('js/index.js') }}"></script>
+    <script src="{{ mix('js/app.js') }}"></script>
 </body>
 </html>
