@@ -28132,7 +28132,7 @@ dispatch({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\JGC\Projects\laravel\laravel-react-server-side-rendering\resources\js\server.js */"./resources/js/server.js");
+module.exports = __webpack_require__(/*! C:\Users\Khel\Projects\laravel\ssr\resources\js\server.js */"./resources/js/server.js");
 
 
 /***/ })
